@@ -17,3 +17,22 @@ ESlint
 
 Better-scroll
 
+开发环境
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+
+生产环境
+# build for production with minification
+npm run build
+# run
+node prod.server.js
+
